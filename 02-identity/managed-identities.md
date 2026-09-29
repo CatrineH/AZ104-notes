@@ -30,4 +30,4 @@ It is attached to a resource, such as:
 
 ## Related
 - [Service Principals](service-principals.md)
-- [Storage Access](../02-storage/storage-access.md)
+- [Storage Access](../03-storage/storage-access.md)
