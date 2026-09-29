@@ -16,7 +16,7 @@
 - [Naming Conventions](03-networking/naming-conventions.md)
 - [DNS](03-networking/dns.md)
 
-## 🗓️ Learning Log
+## Learning Log
 See [learning-log.md](learning-log.md) for what I learned each day.
 
 ## 🔗 Resources
