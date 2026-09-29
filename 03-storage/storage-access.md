@@ -45,13 +45,13 @@ New-AzStorageContext -StorageAccountName mystorage -StorageAccountKey "<key>"
 New-AzStorageContext -StorageAccountName mystorage -SasToken "<sas>"
 
 # Browse containers
-Get-AzStorageContainer -Context $ctx
+Get-AzStorageContainer 
 
 # List blobs
-Get-AzStorageBlob -Container "data" -Context $ctx
+Get-AzStorageBlob -Container "data" 
 
 # Download a file
-Get-AzStorageBlobContent -Container "data" -Blob "file.txt" -Destination "C:\temp" -Context $ctx
+Get-AzStorageBlobContent -Container "data" -Blob "file.txt" -Destination "C:\temp"
 ```
 
 ## Related
