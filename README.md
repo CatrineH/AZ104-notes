@@ -3,18 +3,18 @@
 ## Contents
 
 ### 1. Networking
-- [IP Addressing and Subnetting](03-networking/ip-addressing-subnetting.md)
-- [Naming Conventions](03-networking/naming-conventions.md)
-- [DNS](03-networking/dns.md)
+- [IP Addressing and Subnetting](01-networking/ip-addressing-subnetting.md)
+- [Naming Conventions](01-networking/naming-conventions.md)
+- [DNS](01-networking/dns.md)
 
 ### 2. Identity
-- [Service Principals](01-identity/service-principals.md)
-- [Managed Identities](01-identity/managed-identities.md)
-- [Federation](01-identity/federation.md)
+- [Service Principals](02-identity/service-principals.md)
+- [Managed Identities](02-identity/managed-identities.md)
+- [Federation](02-identity/federation.md)
 
 ### 3. Storage
-- [Storage Redundancy](02-storage/storage-redundancy.md)
-- [Storage Access](02-storage/storage-access.md)
+- [Storage Redundancy](03-storage/storage-redundancy.md)
+- [Storage Access](03-storage/storage-access.md)
 
 
 ## Learning Log
