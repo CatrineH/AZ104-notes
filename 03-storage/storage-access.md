@@ -55,4 +55,4 @@ Get-AzStorageBlobContent -Container "data" -Blob "file.txt" -Destination "C:\tem
 ```
 
 ## Related
-- [Managed Identities](../01-identity/managed-identities.md)
+- [Managed Identities](../02-identity/managed-identities.md)
