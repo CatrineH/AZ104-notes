@@ -12,6 +12,7 @@
 - [Firewalls](01-networking/firewalls.md) – host and network firewalls
 - [NAT](01-networking/nat.md)
 - [Container Networking](01-networking/container-networking.md) – Docker and Kubernetes
+- [ExpressRoute and Virtual WAN](01-networking/expressroute-and-virtual-wan.md) – hybrid connectivity and global transit
 
 ### Week 39 · Mon 21 – Fri 25 September · Microsoft Entra ID
 <!-- Add links here when the Entra ID notes are uploaded -->
