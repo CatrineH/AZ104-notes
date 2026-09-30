@@ -4,6 +4,9 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 
 ## Contents
 
+### 0. Guides/Best practice
+- [Deployment checklist](00-guide/azure-project-skeleton.md)
+
 ### 1. Networking
 - [Network Fundamentals – Overview](01-networking/network-fundamentals.md)
 - [IP Addressing and Subnetting](01-networking/ip-addressing-subnetting.md)
