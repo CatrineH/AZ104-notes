@@ -34,4 +34,4 @@ See [learning-log.md](learning-log.md) for what I learned each day.
 ## 🔗 Resources
 - [AZ-104 exam page](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
 - [AZ-104 learning paths on Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-104t00)
-- [AZ-104 cli cheat cheet] (https://learn.microsoft.com/en-us/cli/azure/reference-docs-index?view=azure-cli-latest)
+- [AZ-104 cli cheat cheet](https://learn.microsoft.com/en-us/cli/azure/reference-docs-index?view=azure-cli-latest)
