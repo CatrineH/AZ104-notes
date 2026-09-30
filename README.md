@@ -6,6 +6,7 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 
 ### 0. Guides/Best practice
 - [Deployment checklist](00-guides/az-project-skeleton.md)
+- [Naming Conventions](01-networking/naming-conventions.md)
 
 ### 1. Networking
 - [Network Fundamentals – Overview](01-networking/network-fundamentals.md)
@@ -16,7 +17,6 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [Firewalls](01-networking/firewalls.md)
 - [NAT](01-networking/nat.md)
 - [Container Networking](01-networking/container-networking.md)
-- [Naming Conventions](01-networking/naming-conventions.md)
 
 ### 2. Identity
 - [Service Principals](02-identity/service-principals.md)
