@@ -11,17 +11,18 @@
 - [Subnets and Routing](01-networking/subnets-and-routing.md)
 - [Firewalls](01-networking/firewalls.md) – host and network firewalls
 - [NAT](01-networking/nat.md)
-- [Container Networking](01-networking/container-networking.md) – Docker and Kubernetes
 - [ExpressRoute and Virtual WAN](01-networking/expressroute-and-virtual-wan.md) – hybrid connectivity and global transit
+- [Container Networking](01-networking/container-networking.md) – Docker and Kubernetes
 
 ### Week 39 · Mon 21 – Fri 25 September · Microsoft Entra ID
 <!-- Add links here when the Entra ID notes are uploaded -->
 
 ### Week 40 · Mon 28 September
+- [Naming conventions](01-networking/naming-conventions.md) – RG, vNet, sNet
 - [IP addressing](01-networking/ip-addressing-subnetting.md#ip-addressing) – host ranges, bits and decimal positions, bit calculation
 - [CIDR notation](01-networking/ip-addressing-subnetting.md#cidr-notation) – how many bits to mask per network
 - [Subnetting](01-networking/ip-addressing-subnetting.md#subnetting-in-azure-29-example) – /29 example with Azure reserved addresses
-- [Naming conventions](01-networking/naming-conventions.md) – RG, vNet, sNet
+
 
 ### Week 40 · Tue 29 September
 - [Service Principals](02-identity/service-principals.md)
