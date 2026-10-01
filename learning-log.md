@@ -6,6 +6,8 @@
 
 ### Week 36–38 · Mon 1 – Fri 18 September · Networking
 - [Network Fundamentals – Overview](01-networking/network-fundamentals.md) – the Business-A scenario, moving to the cloud
+- [Virtual Networks and VNet Peering](01-networking/vnet-peering.md)
+- [Lab: VNet Peering with PowerShell](labs/vnet-peering-lab.md) – two VNets, peering in both directions, NSG, VM, and testing
 - [DNS](01-networking/dns.md)
 - [Ports and Protocols](01-networking/ports-and-protocols.md) – standard ports, TCP vs UDP
 - [Subnets and Routing](01-networking/subnets-and-routing.md)
