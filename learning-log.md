@@ -33,3 +33,7 @@
 - [PowerShell for storage access](03-storage/storage-access.md#powershell)
 - [Managed Identities](02-identity/managed-identities.md) – system-assigned and user-assigned
 - [Federation](02-identity/federation.md)
+
+### Week 40 · Wed 30 September
+- [Storage Network Security](03-storage/storage-network-security.md) – public network access, service endpoints, private endpoints, private DNS zones
+- [Lab: Storage Account with Private Access](labs/storage-private-access-lab.md) – jump server, Azure CLI on Linux, PowerShell on Windows, service endpoint, private endpoint, `privatelink.blob.core.windows.net`
