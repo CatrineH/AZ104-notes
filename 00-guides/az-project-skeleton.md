@@ -2,7 +2,7 @@
 
 [← Back to README](../README.md)
 
-A general order of work for setting up a new Azure project with Infrastructure as Code (IaC).  I can copy this checklist into each new project repo and fill in the specifics.
+A general order of work for setting up a new Azure project with Infrastructure as Code (IaC). 
 
 - Steps **1, 3, 5, and 8** stay essentially the same for every customer
 - Step **2** varies – some customers have no management groups at all
@@ -87,7 +87,7 @@ The CI/CD pipeline needs its own identity – **never use personal credentials**
 | **Workload identity federation** (service principal or user-assigned managed identity) | **Preferred** – no secrets. GitHub Actions or Azure DevOps sign in using a trusted token |
 
 - Follow **least privilege**: assign **Contributor scoped to the resource group**, not the subscription
-- ⚠️ Contributor **cannot create role assignments**. If your templates assign RBAC roles (for example, giving a managed identity access to storage), the pipeline also needs **Role Based Access Control Administrator** or **User Access Administrator**
+- !*! Contributor **cannot create role assignments**. If your templates assign RBAC roles (for example, giving a managed identity access to storage), the pipeline also needs **Role Based Access Control Administrator** or **User Access Administrator**
 
 See also: [Service Principals](../01-identity/service-principals.md), [Managed Identities](../01-identity/managed-identities.md), [Federation](../01-identity/federation.md)
 
