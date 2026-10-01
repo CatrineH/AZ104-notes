@@ -13,6 +13,7 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [IP Addressing and Subnetting](01-networking/ip-addressing-subnetting.md)
 - [DNS](01-networking/dns.md)
 - [Ports and Protocols](01-networking/ports-and-protocols.md)
+- [Virtual Networks and VNet Peering](01-networking/vnet-peering.md)
 - [Subnets and Routing](01-networking/subnets-and-routing.md)
 - [Firewalls](01-networking/firewalls.md)
 - [NAT](01-networking/nat.md)
