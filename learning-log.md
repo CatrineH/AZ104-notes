@@ -39,3 +39,10 @@
 ### Week 40 · Wed 30 September
 - [Storage Network Security](03-storage/storage-network-security.md) – public network access, service endpoints, private endpoints, private DNS zones
 - [Lab: Storage Account with Private Access](labs/storage-private-access-lab.md) – jump server, Azure CLI on Linux, PowerShell on Windows, service endpoint, private endpoint, `privatelink.blob.core.windows.net`
+
+## October 2026
+
+### Week 40 · Thu 1 October
+- [Azure Files](03-storage/azure-files.md) – SMB/NFS, tiers, authentication, snapshots, Azure File Sync
+- [Lab: Azure File Share with CLI](labs/azure-file-share-lab.md) – create share, upload with CLI, mount on Linux and Windows VMs
+  
