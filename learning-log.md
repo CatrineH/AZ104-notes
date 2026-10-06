@@ -48,3 +48,7 @@
 - 
 ### Week 41 · Mon 5 October
 - [NSG Inbound and Outbound Rules](01-networking/nsg-inbound-outbound-rules.md)
+- [Azure file-sync](03-storage/file-sync.md)
+
+### Week 41 · Thu 6 October
+- [AzCopy](03-storage/azcopy.md)
