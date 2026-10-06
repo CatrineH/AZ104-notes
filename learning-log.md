@@ -17,7 +17,7 @@
 - [Container Networking](01-networking/container-networking.md) – Docker and Kubernetes
 
 ### Week 39 · Mon 21 – Fri 25 September · Microsoft Entra ID
-<!-- Add links here when the Entra ID notes are uploaded -->
+- [Entra ID Labs – Overview](02-identity/entra-id-overview.md) – 14 labs: identities, access to Azure resources, access governance
 
 ### Week 40 · Mon 28 September
 - [Naming conventions](01-networking/naming-conventions.md) – RG, vNet, sNet
@@ -45,4 +45,6 @@
 ### Week 40 · Thu 1 October
 - [Azure Files](03-storage/azure-files.md) – SMB/NFS, tiers, authentication, snapshots, Azure File Sync
 - [Lab: Azure File Share with CLI](labs/azure-file-share-lab.md) – create share, upload with CLI, mount on Linux and Windows VMs
-  
+- 
+### Week 41 · Mon 5 October
+- [NSG Inbound and Outbound Rules](01-networking/nsg-inbound-outbound-rules.md)
