@@ -217,9 +217,9 @@ $nsg | Set-AzNetworkSecurityGroup
 - "Which rule blocks the traffic?" → **IP flow verify** or **effective security rules**
 
 ## Related
-- [Firewalls](firewalls.md)
-- [Ports and Protocols](ports-and-protocols.md)
-- [Subnets and Routing](subnets-and-routing.md)
-- [Virtual Networks and VNet Peering](vnet-peering.md)
+- [Firewalls](../01-networking/firewalls.md)
+- [Ports and Protocols](../01-networking/ports-and-protocols.md)
+- [Subnets and Routing](../01-networking/subnets-and-routing.md)
+- [Virtual Networks and VNet Peering](../01-networking/vnet-peering.md)
 
 
