@@ -100,3 +100,4 @@ The same options as for blob storage (see [Storage Network Security](storage-net
 - [Storage Access](storage-access.md)
 - [Storage Network Security](storage-network-security.md)
 - [Storage Redundancy](storage-redundancy.md)
+- [Azure File Sync](file-sync.md)
