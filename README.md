@@ -25,12 +25,12 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [Federation](02-identity/federation.md)
 
 ### 3. Storage
-- [Storage Redundancy](03-storage/storage-redundancy.md)
 - [Storage Access](03-storage/storage-access.md)
 - [Storage-Network-Security](storage-network-security.md)
+- [Storage Redundancy](03-storage/storage-redundancy.md)
 - [Azure-files](03-storage/azure-files.md)
 - [File-sync](file-sync.md)
-- 
+- [AzCopy](AzCopy.md)
 
 
 ## Learning Log
