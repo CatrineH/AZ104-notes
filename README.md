@@ -31,7 +31,7 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [Entra Roles vs Azure RBAC](02-identity/entra-roles-vs-rbac.md)
 - [Managed Identities](02-identity/managed-identities.md)
 - [Privileged Identity Management](02-identity/pim.md)
-- [App Registrations and Enterprise Applications](02-identity/app-registrations.md)
+- [App Registrations and Enterprise Applications](02-identity/app-registration.md)
 - [Access Reviews](02-identity/access-reviews.md)
 - [Conditional Access](02-identity/conditional-access.md)
 - [Service Principals](02-identity/service-principals.md)
