@@ -20,9 +20,23 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [Container Networking](01-networking/container-networking.md)
 
 ### 2. Identity
-- [Service Principals](02-identity/service-principals.md)
+- [Entra ID Labs – Overview](02-identity/entra-id-labs.md)
+- [Entra ID and Users](02-identity/entra-users.md)
+- [Groups and Membership](02-identity/groups.md)
+- [Entra ID Licenses](02-identity/entra-licenses.md)
+- [Guest Users](02-identity/guest-users.md)
+- [Self-Service Password Reset](02-identity/sspr.md)
+- [Azure RBAC](02-identity/azure-rbac.md)
+- [Custom Roles](02-identity/custom-roles.md)
+- [Entra Roles vs Azure RBAC](02-identity/entra-roles-vs-rbac.md)
 - [Managed Identities](02-identity/managed-identities.md)
+- [Privileged Identity Management](02-identity/pim.md)
+- [App Registrations and Enterprise Applications](02-identity/app-registrations.md)
+- [Access Reviews](02-identity/access-reviews.md)
+- [Conditional Access](02-identity/conditional-access.md)
+- [Service Principals](02-identity/service-principals.md)
 - [Federation](02-identity/federation.md)
+
 
 ### 3. Storage
 - [Storage Access](03-storage/storage-access.md)
@@ -30,7 +44,7 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [Storage Redundancy](03-storage/storage-redundancy.md)
 - [Azure-files](03-storage/azure-files.md)
 - [File-sync](file-sync.md)
-- [AzCopy](AzCopy.md)
+- [AzCopy](az-copy.md)
 
 
 ## Learning Log
