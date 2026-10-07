@@ -43,6 +43,7 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [Storage-Network-Security](storage-network-security.md)
 - [Storage Redundancy](03-storage/storage-redundancy.md)
 - [Azure-files](03-storage/azure-files.md)
+- [Storage Encryption and Azure Key Vault](03-storage/storage-encryption-key-vault.md)
 - [File-sync](file-sync.md)
 - [AzCopy](az-copy.md)
 
