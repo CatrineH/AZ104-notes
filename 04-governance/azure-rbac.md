@@ -89,6 +89,6 @@ The role alone is not enough. You also need:
 - RBAC changes can take **a few minutes** to apply
 
 ## Related
-- [Custom Roles](custom-roles.md)
-- [Entra Roles vs Azure RBAC](entra-roles-vs-rbac.md)
-- [Managed Identities](managed-identities.md)
+- [Custom Roles](../02-identity/custom-roles.md)
+- [Entra Roles vs Azure RBAC](..02-identity/entra-roles-vs-rbac.md)
+- [Managed Identities](..02-identity/managed-identities.md)
