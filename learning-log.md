@@ -53,5 +53,6 @@
 ### Week 41 · Thu 6 October
 - [AzCopy](03-storage/azcopy.md)
 
-### Week 41 · Wen 7 October
+### Week 41 · Wen 7-9 October
+- [Why Governance?](04-governance/why-governance.md)
 - [Governance](04-governance/azure-rbac.md)
