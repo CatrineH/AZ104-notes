@@ -49,6 +49,7 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [Storage Encryption and Azure Key Vault](03-storage/storage-encryption-key-vault.md)
 
 ### 4. Governance
+- [Why Governance?](04-governance/why-governance.md)
 - [Azure RBAC](04-governance/azure-rbac.md)
 - [Azure Policy](04-governance/policy.md)
 - [Cost Management, Advisor, and Budgets](04-governance/cost-advisor-budget.md)
