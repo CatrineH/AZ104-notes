@@ -40,13 +40,21 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 
 ### 3. Storage
 - [Storage Access](03-storage/storage-access.md)
-- [Storage-Network-Security](storage-network-security.md)
+- [Storage-Network-Security](03-storage/storage-network-security.md)
 - [Storage Redundancy](03-storage/storage-redundancy.md)
 - [Azure-files](03-storage/azure-files.md)
 - [Storage Encryption and Azure Key Vault](03-storage/storage-encryption-key-vault.md)
-- [File-sync](file-sync.md)
-- [AzCopy](az-copy.md)
+- [File-sync](03-storage/file-sync.md)
+- [AzCopy](03-storage/az-copy.md)
 
+### 4. Governance
+- [Azure-RBAC](04-governance/azure-rbac.md)
+- [Cost Advisor & Budget](04-governance/cost-advisor-budget.md)
+- [Inheritence](04-governance/inheritence.md)
+- [Azure Policy](04-governance/policy.md)
+- [Resource Locks](04-governance/resource-locks.md)
+- [Scope Hierarchy](04-governance/scope-hierarchy.md)
+- [Tags](04-governance/tags.md)
 
 ## Learning Log
 See [learning-log.md](learning-log.md) for what I learned each day.
