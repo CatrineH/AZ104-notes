@@ -90,5 +90,5 @@ The role alone is not enough. You also need:
 
 ## Related
 - [Custom Roles](../02-identity/custom-roles.md)
-- [Entra Roles vs Azure RBAC](..02-identity/entra-roles-vs-rbac.md)
-- [Managed Identities](..02-identity/managed-identities.md)
+- [Entra Roles vs Azure RBAC](../02-identity/entra-roles-vs-rbac.md)
+- [Managed Identities](../02-identity/managed-identities.md)
