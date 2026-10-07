@@ -26,7 +26,6 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [Entra ID Licenses](02-identity/entra-licenses.md)
 - [Guest Users](02-identity/guest-users.md)
 - [Self-Service Password Reset](02-identity/sspr.md)
-- [Azure RBAC](02-identity/azure-rbac.md)
 - [Custom Roles](02-identity/custom-roles.md)
 - [Entra Roles vs Azure RBAC](02-identity/entra-roles-vs-rbac.md)
 - [Managed Identities](02-identity/managed-identities.md)
@@ -40,17 +39,17 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 
 ### 3. Storage
 - [Storage Access](03-storage/storage-access.md)
-- [Storage-Network-Security](03-storage/storage-network-security.md)
+- [Storage Network Security](03-storage/storage-network-security.md)
 - [Storage Redundancy](03-storage/storage-redundancy.md)
-- [Azure-files](03-storage/azure-files.md)
+- [Azure Files](03-storage/azure-files.md)
 - [Storage Encryption and Azure Key Vault](03-storage/storage-encryption-key-vault.md)
-- [File-sync](03-storage/file-sync.md)
+- [Azure File Sync](03-storage/file-sync.md)
 - [AzCopy](03-storage/az-copy.md)
 
 ### 4. Governance
-- [Azure-RBAC](04-governance/azure-rbac.md)
-- [Cost Advisor & Budget](04-governance/cost-advisor-budget.md)
-- [Inheritence](04-governance/inheritence.md)
+- [Azure RBAC](04-governance/azure-rbac.md)
+- [Cost Management,Advisor,and Budgets](04-governance/cost-advisor-budget.md)
+- [Inheritance](04-governance/inheritance.md)
 - [Azure Policy](04-governance/policy.md)
 - [Resource Locks](04-governance/resource-locks.md)
 - [Scope Hierarchy](04-governance/scope-hierarchy.md)
