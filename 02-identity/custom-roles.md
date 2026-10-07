@@ -56,4 +56,4 @@ az role definition create --role-definition vm-power-operator.json
 - A good starting point: copy a built-in role (**Clone a role** in the portal) and remove what isn't needed
 
 ## Related
-- [Azure RBAC](azure-rbac.md)
+- [Azure RBAC](../04-governance/azure-rbac.md)
