@@ -6,7 +6,7 @@ A general order of work for setting up a new Azure project with Infrastructure a
 
 - Steps **1, 3, 5, and 8** stay essentially the same for every customer
 - Step **2** varies – some customers have no management groups at all
-- Steps **6–7** vary depending on which networking and compute pieces the project needs
+- Steps **6–7** can vary depending on which networking and compute pieces the project needs
 
 ## Checklist
 
@@ -29,8 +29,8 @@ Agree on standards **before creating anything**. Retrofitting names later is pai
 
 ```
 <resourcetype>-<workload>-<env>-<region>-<instance>
-rg-webshop-prod-norwayeast-001
-vnet-webshop-prod-norwayeast-001
+rg-lab104-catrine-prod-norwayeast-001
+vnet-labcatrine-prod-norwayeast-001
 ```
 
 **Tagging schema** – for example:
@@ -40,13 +40,13 @@ vnet-webshop-prod-norwayeast-001
 | `owner` | cat@company.com |
 | `costCenter` | 1234 |
 | `environment` | dev / test / prod |
-| `project` | webshop |
+| `project` | lab104-catrine |
 
 **IP plan** – decide address ranges for each vNet up front, with no overlaps between vNets that will be connected.
 
-Put naming and tags into your IaC as **variables/parameters**, so every resource is consistent from day one.
+Put naming and tags into my IaC as **variables/parameters**, so every resource is consistent from day one.
 
-See also: [Naming Conventions](../03-networking/naming-conventions.md), [IP Addressing and Subnetting](../03-networking/ip-addressing-subnetting.md)
+Ref also: [Naming Conventions](../03-networking/naming-conventions.md), [IP Addressing and Subnetting](../03-networking/ip-addressing-subnetting.md)
 
 ## 2. Confirm subscription and management group structure
 
@@ -60,7 +60,7 @@ Management groups
 ```
 
 - **Azure Policy** and **RBAC** assigned at a higher level are **inherited** by everything below
-- Check which policies apply, so your deployments comply with governance set higher up (for example, allowed regions or required tags)
+- Check which policies apply, so my deployments comply with governance set higher up (for example, allowed regions or required tags)
 
 ## 3. Create the resource group(s)
 
@@ -87,9 +87,9 @@ The CI/CD pipeline needs its own identity – **never use personal credentials**
 | **Workload identity federation** (service principal or user-assigned managed identity) | **Preferred** – no secrets. GitHub Actions or Azure DevOps sign in using a trusted token |
 
 - Follow **least privilege**: assign **Contributor scoped to the resource group**, not the subscription
-- !*! Contributor **cannot create role assignments**. If your templates assign RBAC roles (for example, giving a managed identity access to storage), the pipeline also needs **Role Based Access Control Administrator** or **User Access Administrator**
+- !*! Contributor **cannot create role assignments**. If my templates assign RBAC roles (for example, giving a managed identity access to storage), the pipeline also needs **Role Based Access Control Administrator** or **User Access Administrator**
 
-See also: [Service Principals](../01-identity/service-principals.md), [Managed Identities](../01-identity/managed-identities.md), [Federation](../01-identity/federation.md)
+Ref also: [Service Principals](../01-identity/service-principals.md), [Managed Identities](../01-identity/managed-identities.md), [Federation](../01-identity/federation.md)
 
 ## 6. Build the core networking layer
 
@@ -97,7 +97,7 @@ See also: [Service Principals](../01-identity/service-principals.md), [Managed I
 - Deploy as a separate **foundation template**, because networking changes less often than application resources
 - Later templates **reference the vNet by ID or output** instead of redefining it
 
-See also: [Subnets and Routing](../03-networking/subnets-and-routing.md), [Firewalls](../03-networking/firewalls.md)
+Ref also: [Subnets and Routing](../03-networking/subnets-and-routing.md), [Firewalls](../03-networking/firewalls.md)
 
 ## 7. Author modular IaC templates
 
