@@ -51,8 +51,10 @@
 - [Azure file-sync](03-storage/file-sync.md)
 
 ### Week 41 · Thu 6 October
-- [AzCopy](03-storage/azcopy.md)
+- [AzCopy](03-storage/azcopy.md) - Comming
 
 ### Week 41 · Wen 7-9 October
 - [Why Governance?](04-governance/why-governance.md)
 - [Governance](04-governance/azure-rbac.md)
+- [Tags](04-gorvernance/tags.md)
+- 
