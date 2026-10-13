@@ -226,7 +226,7 @@ Start-AzPolicyComplianceScan -ResourceGroupName AZ104-catrine-rg
 5. **Policy never deletes.** Non-compliant resources keep running and are flagged
 
 ## Related
-- [Inheritance](inheritance.md)
+- [Inheritance](inheritence.md)
 - [Scope Hierarchy](scope-hierarchy.md)
 - [Tags](tags.md)
 - [Resource Locks](resource-locks.md)
