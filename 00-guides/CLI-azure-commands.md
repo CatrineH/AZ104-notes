@@ -1,21 +1,12 @@
 # Common Azure CLI commands - Azure Virtual Machines | Microsoft Learn
 
-Reference docs
+| Reference docs| |
+| --- | --- |
+| Get-| = Read/View existing resources | `Get-AzVM` `Get-AzDisk` |
+| New- | = Create resources | `New-AzVM` `New-AzDisk` |
+| Set- | = Modify existing resources | `Set-AzVM` `Set-AzDisk` |
+| Remove- | = Delete resources | `Remove-AzVM` `Remove-AzDisk` |
 
-Get- = Read/View existing resources
-New- = Create resources
-Set- = Modify existing resources
-Remove- = Delete resources
-
-
-Get-AzVM
-New-AzVM
-Set-AzVM
-Remove-AzVM
-Get-AzDisk
-New-AzDisk
-Set-AzDisk
-Remove-AzDisk
 
 ### Create VMs
 
