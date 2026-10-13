@@ -57,6 +57,7 @@ My study notes for the **Microsoft Azure Administrator (AZ-104)** certification.
 - [Resource Locks](04-governance/resource-locks.md)
 - [Scope Hierarchy](04-governance/scope-hierarchy.md)
 - [Tags](04-governance/tags.md)
+- [Cheat-sheet](cheat-sheet.md)
 
 ## Learning Log
 See [learning-log.md](learning-log.md) for what I learned each day.
